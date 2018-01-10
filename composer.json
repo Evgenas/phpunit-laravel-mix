@@ -1,5 +1,5 @@
 {
-  "name": "1-gamma/phpunit-laravel-mix",
+  "name": "laravel/phpunit-laravel-mix",
   "description": "Override helpers for phpunit",
   "keywords": [
     "laravel",
