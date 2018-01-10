@@ -1,5 +1,5 @@
 {
-  "name": "laravel/phpunit-laravel-mix",
+  "name": "laravel/framework-phpunit-laravel-mix",
   "description": "Override helpers for phpunit",
   "keywords": [
     "laravel",
