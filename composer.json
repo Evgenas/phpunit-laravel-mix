@@ -1,0 +1,25 @@
+{
+  "name": "gamma/phpunit-laravel-mix",
+  "description": "Override helpers for phpunit",
+  "keywords": [
+    "laravel",
+    "phpunit"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evgen Kuzmin",
+      "email": "jekccs@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+  },
+  "autoload": {
+    "files": [
+      "src/override_helpers.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
