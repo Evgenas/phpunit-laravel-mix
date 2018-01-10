@@ -17,7 +17,7 @@
   },
   "autoload": {
     "files": [
-      "src/override_helpers.php"
+      "src/functions.php"
     ]
   },
   "minimum-stability": "dev",
